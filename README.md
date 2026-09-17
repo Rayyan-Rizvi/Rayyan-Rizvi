@@ -31,4 +31,4 @@ I'm seeking software development internships where I can contribute to a team an
 ## Contact
 
 [rayyan.rizvi10@gmail.com](mailto:rayyan.rizvi10@gmail.com)
-[24fnl@queensu.ca]
+[24fnl@queensu.ca](mailto:24fnl@queensu.ca)
