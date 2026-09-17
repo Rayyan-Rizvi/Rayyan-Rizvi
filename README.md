@@ -2,9 +2,9 @@
 
 **Computing (Honours) · Software Design · Queen's University**
 
-I'm a computing student interested in building useful web applications and data tools. My experience includes React website development, Python/SQL reporting projects, and vehicle software testing with Queen's University Racing.
+I'm a computing student interested in building useful web applications and data tools. My experience includes React website development, Python/SQL reporting projects, and vehicle software testing.
 
-I'm seeking software development internships where I can contribute to a team and keep improving my engineering skills.
+I'm seeking software development internships where I can contribute to a team and keep improving my software skills.
 
 ## 🛠️ Tech Stack
 
