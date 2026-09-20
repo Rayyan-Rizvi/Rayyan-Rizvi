@@ -30,12 +30,12 @@ I'm seeking software development internships where I can contribute to a team an
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Selected projects
+## Projects
 
 | Project | What I worked on |
 | --- | --- |
+| **[Formula SAE Telemetry Analyzer](https://github.com/Rayyan-Rizvi/Formula-SAE-Telemetry-Analyzer)** | A 10 Hz vehicle simulation, SQLite pipeline, and SQL analysis layer with automated health checks. [Live dashboard](https://public.tableau.com/app/profile/rayyan.rizvi/viz/FormulaSAETelemetryAnalyzer/TelemetryDashboard). |
 | **Convenience Store Sales & Margin Dashboard** | A Python/Pandas pipeline for point-of-sale data, SQL reporting views, and dashboards in Tableau and Power BI. |
-| **Convenience Store Inventory Health & Reorder Assistant** | Inventory tables, SQL window functions, moving-average forecasts, low-stock alerts, and an Excel reorder sheet. |
 
 <!-- After publishing each project, link its title to the actual repository URL. -->
 
