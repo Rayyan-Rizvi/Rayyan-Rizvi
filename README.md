@@ -35,7 +35,7 @@ I'm seeking software development internships where I can contribute to a team an
 | Project | What I worked on |
 | --- | --- |
 | **[Formula SAE Telemetry Analyzer](https://github.com/Rayyan-Rizvi/Formula-SAE-Telemetry-Analyzer)** | A 10 Hz vehicle simulation, SQLite pipeline, and SQL analysis layer with automated health checks. [Live dashboard](https://public.tableau.com/app/profile/rayyan.rizvi/viz/FormulaSAETelemetryAnalyzer/TelemetryDashboard). |
-| **Convenience Store Sales & Margin Dashboard** | A Python/Pandas pipeline for point-of-sale data, SQL reporting views, and dashboards in Tableau and Power BI. |
+| [Limestone — Transit Routing Engine](https://github.com/Rayyan-Rizvi/Limestone-Transit) | A C++17 implementation of the RAPTOR transit routing algorithm over Kingston Transit's GTFS feed, with walking transfers and a multithreaded accessibility sweep. |
 
 <!-- After publishing each project, link its title to the actual repository URL. -->
 
