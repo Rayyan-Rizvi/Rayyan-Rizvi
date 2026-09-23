@@ -43,10 +43,10 @@ I'm seeking software development internships where I can contribute to a team an
 
 ## Technical toolkit
 
+- **Programming:** C++, Python, Java, C, SQL
+- **Data:** Pandas, NumPy, Tableau, Power BI, Excel
 - **Web:** JavaScript, React, HTML, CSS
-- **Programming:** Python, Java, C, C++
-- **Data:** SQL, Pandas, NumPy, Tableau, Power BI, Excel
-- **Development:** Git, Linux
+- **Development:** Git, GitHub Actions, CMake, Linux
 
 ## Experience
 
